@@ -326,6 +326,8 @@
     <None Include="Assets\Packages\Avatar_01\Shaders\toon_hair.shader" />
     <None Include="Assets\Packages\Little Pack 1\Shaders\Toony-Basic.shader" />
     <None Include="Assets\Packages\Little Pack 1\Shaders\Toony-BasicOutline.shader" />
+    <None Include="Assets\Sources\Character\Env\Glow\GlowEffectDownsample.shader" />
+    <None Include="Assets\Sources\Character\Env\MirrorReflection\MirrorReflection.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />

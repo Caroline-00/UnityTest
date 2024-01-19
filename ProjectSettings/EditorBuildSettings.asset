@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Store_Scn.unity
     guid: 5af9c11c2d182a845a6141beedbb2df5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Shop_Scn.unity
     guid: 0c662d7bf1e7653459563dd4880897e3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Custome_Scn.unity
-    guid: 76b4dc7c05b046d439ef3c1a713cbd63
+    guid: 6ab35c2f73c4162479d7e20616ec084e

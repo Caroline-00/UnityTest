@@ -503,7 +503,11 @@
     <Compile Include="Assets\Scripts\AR\ARInsPet.cs" />
     <Compile Include="Assets\Scripts\AR\ARShootBall.cs" />
     <Compile Include="Assets\Scripts\AR\ARUI_Mgr.cs" />
+    <Compile Include="Assets\Scripts\AvatarButton.cs" />
+    <Compile Include="Assets\Scripts\AvatarSys.cs" />
     <Compile Include="Assets\Scripts\Custome\CustomeMgr.cs" />
+    <Compile Include="Assets\Scripts\CusUI_Map.cs" />
+    <Compile Include="Assets\Scripts\loadAvatar.cs" />
     <Compile Include="Assets\Scripts\Map\Ball_Find.cs" />
     <Compile Include="Assets\Scripts\Map\BoyCtrl.cs" />
     <Compile Include="Assets\Scripts\Map\Food_Find.cs" />
@@ -514,9 +518,13 @@
     <Compile Include="Assets\Scripts\Map\UI_Mgr_02.cs" />
     <Compile Include="Assets\Scripts\Pet\PetSave.cs" />
     <Compile Include="Assets\Scripts\Shop\ShopMgr.cs" />
+    <Compile Include="Assets\Scripts\SpinWithMouse.cs" />
     <Compile Include="Assets\Scripts\Static\StaticData.cs" />
     <Compile Include="Assets\Scripts\Store\StoreInsPet.cs" />
     <Compile Include="Assets\Scripts\Store\StoreUIMgr.cs" />
+    <Compile Include="Assets\Sources\Character\Env\Glow\GlowEffect.cs" />
+    <Compile Include="Assets\Sources\Character\Env\Glow\ImageEffects.cs" />
+    <Compile Include="Assets\Sources\Character\Env\MirrorReflection\MirrorReflection.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
   </ItemGroup>
@@ -546,6 +554,8 @@
     <None Include="Assets\Packages\Avatar_01\Shaders\toon_hair.shader" />
     <None Include="Assets\Packages\Little Pack 1\Shaders\Toony-Basic.shader" />
     <None Include="Assets\Packages\Little Pack 1\Shaders\Toony-BasicOutline.shader" />
+    <None Include="Assets\Sources\Character\Env\Glow\GlowEffectDownsample.shader" />
+    <None Include="Assets\Sources\Character\Env\MirrorReflection\MirrorReflection.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
